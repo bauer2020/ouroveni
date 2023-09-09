@@ -1,8 +1,27 @@
 #parentfooter{
+    display: flex;
     background-color: greenyellow;
     color : white;
     margin-top: auto;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
+}
+#fille1footer{
+   color: aliceblue;
+   margin: auto;
+}
+#fille2footer{
+    color: aliceblue;
+    margin: auto;
+}
+#fille3footer{
+    color: aliceblue;
+    margin: auto;
+}
+@media screen {
+    
+}
+@media screen {
+    
 }
